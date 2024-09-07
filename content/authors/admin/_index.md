@@ -52,8 +52,8 @@ interests:
 education:
   - area: M.S., Aerospace Engineering
     institution: Korea Advanced Institute of Science and Technology (KAIST)
-    date_start: 2023-09
-    date_end: 2025-08
+    date_start: '2023-09'
+    date_end: '2025-08'
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Jiyun Lee](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals (example).
     button:
@@ -61,8 +61,8 @@ education:
       url: 'https://example.com'
   - area: B.S., in Electrical Enginnering\nB.S., in Aerospace Engineering
     institution: Korea Advanced Institute of Science and Technology (KAIST)
-    date_start: 2018-03
-    date_end: 2023-08
+    date_start: '2018-03'
+    date_end: '2023-08'
     summary: |
       GPA: 3.8/4.0
 
@@ -76,8 +76,8 @@ work:
     company_name: NAVER Maps 
     company_url: 'https://www.navercorp.com/'
     company_logo: ''
-    date_start: 2021-12
-    date_end: 2022-02
+    date_start: '2021-12'
+    date_end: '2022-02'
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
