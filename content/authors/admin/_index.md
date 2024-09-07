@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Jaeryoung Lee
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jaeryoung
+last_name: Lee
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👀
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,51 +20,49 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Graduate Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: KAIST GNSS Laboratory
+    url: https://gnss.kaist.ac.kr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jrylee@kaist.ac.kr'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: www.linkedin.com/in/jaeryoung-lee-610923304
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bayesian Estimation
+  - Decision-making Under Uncertainties
+  - Autonomous Navigation
+  - Positioning-Navigation-Timing (PNT)
+  - Sensor Fusion 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.S., Aerospace Engineering
+    institution: Korea Advanced Institute of Science and Technology (KAIST)
+    date_start: 09/2023
+    date_end: 08/2025
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Jiyun Lee](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals (example).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.S., in Electrical Enginnering\nB.S., in Aerospace Engineering
+    institution: Korea Advanced Institute of Science and Technology (KAIST)
+    date_start: 03/2018
+    date_end: 08/2023
     summary: |
       GPA: 3.8/4.0
 
@@ -72,40 +70,20 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Intern 
+    company_name: NAVER Maps 
+    company_url: 'https://www.navercorp.com/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 12/2021
+    date_end: 02/2022
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -116,7 +94,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: MATLAB
         description: ''
         percent: 100
         icon: chart-bar
@@ -128,26 +106,21 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Yoga
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Cats and Dogs
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Korean
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +156,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello, my name is Jaeryoung Lee. I am Master's student in Aerospace Engineering at KAIST, South Korea. My research interests include robotics, autonomous navigation and Bayesian Estimation. Currently, I research on Positing-Navigation-Timing (PNT) using Global Navigation Satellite System (GNSS) at the KAIST GNSS lab, led by Prof.Jiyun Lee. 
+I am a PhD applicant for Fall 2025.
