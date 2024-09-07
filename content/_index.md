@@ -20,7 +20,7 @@ sections:
         url: uploads/resume.pdf
     design:
       background:
-        color: white
+        color: zinc
         text_color_light: false
 
   - block: markdown
