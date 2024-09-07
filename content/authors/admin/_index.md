@@ -10,8 +10,8 @@ first_name: Jaeryoung
 last_name: Lee
 
 # Status emoji
-status:
-  icon: 👀
+#status:
+#  icon: 👀
 
 # Is this the primary user of the site?
 superuser: true
@@ -49,7 +49,7 @@ interests:
   - Sensor Fusion 
 
 education:
-  - area: M.S., Aerospace Engineering
+  - area: M.S.in Aerospace Engineering
     institution: KAIST
     date_start: '2023-09-01'
     date_end: '2025-08-31'
@@ -58,7 +58,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: B.S., in Aerospace Enginnering (double major)
+  - area: B.S. in Aerospace Enginnering (double major)
     institution: KAIST
     date_start: '2018-03-01'
     date_end: '2023-08-31'
@@ -69,7 +69,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: B.S., in Electrical Engineering
+  - area: B.S. in Electrical Engineering
     institution: KAIST
     date_start: '2018-03-01'
     date_end: '2023-08-31'
