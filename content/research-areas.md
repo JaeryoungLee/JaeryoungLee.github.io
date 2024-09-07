@@ -1,35 +1,23 @@
 ---
-title: 'Research Areas'
-date: 2023-10-24
+title: 'Projects'
+date: 2024-05-19
 type: landing
 
 design:
+  # Section spacing
   spacing: '5rem'
-
-# Note: `username` refers to the user's folder name in `content/authors/`
 
 # Page sections
 sections:
-  - block: resume-experience
+  - block: collection
     content:
-      username: admin
+      title: Selected Projects
+      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      filters:
+        folders:
+          - project
     design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      username: admin
-    design:
-      show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
+      view: article-grid
+      fill_image: false
+      columns: 3
 ---
