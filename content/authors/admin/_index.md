@@ -24,7 +24,7 @@ role: Graduate Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: KAIST GNSS Laboratory
+  - name: KAIST GNSS Lab
     url: https://gnss.kaist.ac.kr/
 
 # Social network links
@@ -44,14 +44,13 @@ profiles:
 
 interests:
   - Bayesian Estimation
-  - Decision-making Under Uncertainties
   - Autonomous Navigation
-  - Positioning-Navigation-Timing (PNT)
+  - Positioning-Navigation-Timing
   - Sensor Fusion 
 
 education:
   - area: M.S., Aerospace Engineering
-    institution: Korea Advanced Institute of Science and Technology (KAIST)
+    institution: KAIST
     date_start: '2023-09-01'
     date_end: '2025-08-31'
     summary: |
@@ -59,8 +58,19 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: B.S., in Electrical Enginnering\nB.S., in Aerospace Engineering
-    institution: Korea Advanced Institute of Science and Technology (KAIST)
+  - area: B.S., in Aerospace Enginnering (double major)
+    institution: KAIST
+    date_start: '2018-03-01'
+    date_end: '2023-08-31'
+    summary: |
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: B.S., in Electrical Engineering
+    institution: KAIST
     date_start: '2018-03-01'
     date_end: '2023-08-31'
     summary: |

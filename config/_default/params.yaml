@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+  mode: light
+  color: white
 
 # SEO
 marketing:
@@ -18,24 +18,31 @@ marketing:
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
-    baidu_tongji: ''
     plausible: ''
     fathom: ''
     pirsch: ''
   verification:
     google: ''
-    baidu: ''
 
 # Site header
 header:
   navbar:
     enable: true
     blox: "navbar"
+    allign: "center"
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Jaeryoung Lee"
+        # Let the user search from the navigation bar?
+    show_search: true
+    # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
+    highlight_active_link: true
+    # Show a language chooser (if you have translated your site content)?
+    show_translations: true
+    # If `show_translations` is enabled, do you wish to hide the current language name?
+    hide_language_name: false
 
 # Site footer
 footer:
@@ -51,6 +58,7 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
+  address_format: en-us
 
 # Site features
 features:
