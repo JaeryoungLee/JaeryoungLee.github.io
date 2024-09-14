@@ -37,7 +37,7 @@ More details of these projects can be seen here: (link).
 
 #### Graduate Research 
 Following completion of those projects, it seemed natural for me to pursue a master's degree to research navigation in depth, which led me to research GNSS, the most elemental and fundamental positioning technique. To date, I have worked on the following projects as a master’s student. (link)
-![fgo_diagram](assets/media/fgo_diagram.jpg)
+![fgo_diagram](/assets/media/fgo_diagram.jpg)
 - Urban positioning using Factor Graph Optimization (FGO)-based GNSS systems
 - GNSS integrity assurance 
 - Ionospheric modeling 
