@@ -16,33 +16,36 @@ main:
   - name: Projects
     identifier: projects
     weight: 30
+  - name: Project Summary
+    url: /project-summary
+    weight: 40
   - name: Activities
     url: /activities
-    weight: 40
+    weight: 50
 
   - name: FGO Positioning
     parent: projects
-    url: /projects/fgo_positioning
+    url: /projects/fgo-positioning
     weight: 31
 
   - name: UAV Path Planning
     parent: projects
-    url: /projects/path_planning
+    url: /projects/path-planning
     weight: 32
 
   - name: UAV Vision Landing
     parent: projects
-    url: /projects/vision_landing
+    url: /projects/vision-landing
     weight: 33
 
   - name: Ionosphere Modeling
     parent: projects
-    url: /projects/iono_modeling
+    url: /projects/iono-modeling
     weight: 34
 
   - name: LEO PNT
     parent: projects
-    url: /projects/leo_pnt
+    url: /projects/leo-pnt
     weight: 35
   
   - name: SDR
