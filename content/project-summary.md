@@ -15,10 +15,9 @@ sections:
       text: Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
-          - research-projects
+          - research-projescts
     design:
-      #view: article-grid
-      view: card
+      view: article-grid
 
   - block: markdown
     id: section-1
