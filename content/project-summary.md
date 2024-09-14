@@ -1,6 +1,6 @@
 ---
 title: 'Research Projects'
-date: 2024-05-19
+date: 2024-09-14
 type: landing
 
 design:
@@ -12,13 +12,13 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
           - research-projects
     design:
-      view: article-grid
-      #view: card
+      #view: article-grid
+      view: card
       fill_image: true
       columns: 1
 
