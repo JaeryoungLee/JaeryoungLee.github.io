@@ -17,8 +17,8 @@ sections:
         folders:
           - research-projects
     design:
-      #view: article-grid
-      view: card
+      view: article-grid
+      #view: card
       fill_image: true
       columns: 1
 

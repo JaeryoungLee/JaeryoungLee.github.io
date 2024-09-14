@@ -16,9 +16,11 @@ main:
   - name: Projects
     identifier: projects
     weight: 30
+
   - name: Project Summary
     url: /project-summary
     weight: 40
+    
   - name: Activities
     url: /activities
     weight: 50
