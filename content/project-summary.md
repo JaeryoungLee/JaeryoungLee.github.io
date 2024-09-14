@@ -19,8 +19,6 @@ sections:
     design:
       #view: article-grid
       view: card
-      fill_image: true
-      columns: 1
 
   - block: markdown
     id: section-1

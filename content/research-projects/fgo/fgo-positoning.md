@@ -3,14 +3,14 @@
 
 ---
 title: Factor Graph Optimization
+summary: asdfasdfasdf
 date: 2024-09-14
-external_link: https://github.com/pytorch/pytorch
+authors: 
+- admin
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-This is a FGO page.
-
-<!--more-->
+## This is a FGO page.
