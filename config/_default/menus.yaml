@@ -14,9 +14,38 @@ main:
     url: /research-areas
     weight: 20
   - name: Projects
-    url: /projects
+    identifier: projects
     weight: 30
   - name: Activities
     url: /activities
     weight: 40
 
+  - name: Fgo_positioning
+    parent: projects
+    url: projects/fgo_positioning/
+    weight: 10
+
+  - name: Path_planning
+    parent: projects
+    url: projects/path_planning/
+    weight: 20
+
+  - name: Vision_landing
+    parent: projects
+    url: projects/vision_landing/
+    weight: 30
+
+  - name: Iono_modeling
+    parent: projects
+    url: projects/iono_modeling/
+    weight: 40
+
+  - name: Leo_pnt
+    parent: projects
+    url: projects/leo_pnt/
+    weight: 50
+  
+  - name: Sdr
+    parent: projects
+    url: projects/sdr/
+    weight: 60
