@@ -18,6 +18,7 @@ sections:
           - research-projescts
     design:
       view: article-grid
+      columns: 1
 
   - block: markdown
     id: section-1
