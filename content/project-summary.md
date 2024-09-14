@@ -15,7 +15,7 @@ sections:
       text: Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
-          - research-projescts
+          - research-projects
     design:
       view: article-grid
       columns: 1
