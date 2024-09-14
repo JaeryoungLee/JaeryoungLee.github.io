@@ -19,15 +19,15 @@ authors:
 #       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
 ---
 
-## Research Interests
-My research interests include **autonomous navigation** and **positioning in robotics**. 
+### Research Interests
+My research interests include **autonomous navigation** and **positioning** in robotics. 
 In a broader sense, I am interested in how things see and understand the world utilizing different sensor measurements. As well as practical implementation, I hope to pursue the fundamental background of estimation, such as **Bayesian estimation theory**, in depth. 
 
 
-## Research Journey
+### Research Journey
 
-### Undergraduate Research
-I started my research journey for autonomous navigation when I was an undergraduate student at KAIST.
+#### Undergraduate Research
+I started my research journey for **autonomous navigation** when I was an undergraduate student at KAIST.
 Projects I worked on as an undergraduate researcher include: 
 - UAV Path Planning
 - Vision-based precision landing of fixed-wing UAVs
@@ -35,8 +35,9 @@ Projects I worked on as an undergraduate researcher include:
 More details of these projects can be seen here: (link). 
 
 
-### Graduate Research 
+#### Graduate Research 
 Following completion of those projects, it seemed natural for me to pursue a master's degree to research navigation in depth, which led me to research GNSS, the most elemental and fundamental positioning technique. To date, I have worked on the following projects as a master’s student. (link)
+![fgo_diagram](./pictures/fgo_diagram.jpg)
 - Urban positioning using Factor Graph Optimization (FGO)-based GNSS systems
 - GNSS integrity assurance 
 - Ionospheric modeling 
@@ -44,7 +45,7 @@ Following completion of those projects, it seemed natural for me to pursue a mas
 - Software-defined Receiver (SDR)
 
 
-### Advancing to Doctoral Research ... 
+#### Advancing to Doctoral Research ... 
 During my PhD studies, I aim to leverage my background in autonomous navigation and estimation theory to explore a range of technologies in control and guidance systems. While my primary interests lie in sensor fusion, state estimation, and decision-making, I am excited to remain open to new opportunities and emerging challenges within these fields. I look forward to expanding my expertise and contributing to innovative solutions that advance autonomous system capabilities.
 
 

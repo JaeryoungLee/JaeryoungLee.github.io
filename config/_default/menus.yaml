@@ -13,9 +13,7 @@ main:
   - name: Research Areas
     url: /research-areas
     weight: 20
-  - name: Projects
-    identifier: projects
-    weight: 30
+
   - name: Project Summary
     url: /project-summary
     weight: 40
