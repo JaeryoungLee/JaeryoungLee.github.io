@@ -23,29 +23,29 @@ main:
   - name: FGO Positioning
     parent: projects
     url: /projects/fgo_positioning
-    weight: 10
+    weight: 31
 
   - name: UAV Path Planning
     parent: projects
     url: /projects/path_planning
-    weight: 20
+    weight: 32
 
   - name: UAV Vision Landing
     parent: projects
     url: /projects/vision_landing
-    weight: 30
+    weight: 33
 
   - name: Ionosphere Modeling
     parent: projects
     url: /projects/iono_modeling
-    weight: 40
+    weight: 34
 
   - name: LEO PNT
     parent: projects
     url: /projects/leo_pnt
-    weight: 50
+    weight: 35
   
   - name: SDR
     parent: projects
     url: /projects/sdr
-    weight: 60
+    weight: 36
