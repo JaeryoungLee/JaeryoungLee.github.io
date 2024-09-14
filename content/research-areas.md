@@ -1,11 +1,13 @@
 ---
 title: 'Research Areas'
 date: 2024-09-14
-type: landing
+authors:
+- admin
+# type: landing
 
-design:
-  # Section spacing
-  spacing: '5rem'
+# design:
+#   # Section spacing
+#   spacing: '5rem'
 
 # Page sections
 # sections:
