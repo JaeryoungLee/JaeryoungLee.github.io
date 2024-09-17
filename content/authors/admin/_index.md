@@ -168,6 +168,4 @@ awards:
 
 ## About Me
 
-Hello, my name is Jaeryoung Lee. I am a Master's student studying Aerospace Engineering at KAIST, South Korea. My research interests include robotics, autonomous navigation and Bayesian Estimation. Currently, I work on Positing-Navigation-Timing (PNT) using Global Navigation Satellite System (GNSS) at the KAIST GNSS lab, led by Prof. Jiyun Lee. 
-
-I am a PhD applicant for Fall 2025.
+Hello, my name is Jaeryoung Lee. I am a Master’s student studying Aerospace Engineering at KAIST, South Korea. My research interests include robotics, autonomous navigation, and Bayesian Estimation. Currently, I am working  on Positing-Navigation-Timing (PNT) using Global Navigation Satellite Systems (GNSS) at the KAIST GNSS lab, led by Prof. Jiyun Lee.
