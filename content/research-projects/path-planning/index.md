@@ -13,8 +13,6 @@ image:
 ---
 <span style="font-size:80%">
 
-## Vehicle Path Planning using MDP
-
 <details open>
   <summary>Summary</summary>
 
@@ -39,8 +37,9 @@ image:
   - Conference Poster
 
 </details>
----
 
+---
+## Vehicle Path Planning using MDP
 Path planning for aerial vehicles plays a crucial role in Urban Air Mobility (UAM), where passengers request specific departure and arrival points on demand. Finding the optimal path is important because it directly impacts the cost and efficiency of the service. As part of an undergraduate research program, I focused on finding the optimal path for aerial vehicles in UAM scenarios, specifically those that transport passengers to multiple on-demand locations.
 
 *diagram*

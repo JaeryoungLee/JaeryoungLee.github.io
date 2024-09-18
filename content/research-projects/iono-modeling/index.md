@@ -13,8 +13,6 @@ image:
 ---
 <span style="font-size:80%">
 
-## Ionospheric Modeling using GNSS measurements<br/>: Regional Optimization of NeQuick-G Model for Improved TEC Estimation
-
 <details open>
   <summary>Summary</summary>
 
@@ -40,7 +38,10 @@ image:
   - Journal 
   - Conference Poster
 </details>
+
 ---
+## Ionospheric Modeling using GNSS measurements
+**Regional Optimization of NeQuick-G Model for Improved TEC Estimation**
 
 GNSS signals, traveling from satellites in space to receivers on Earth, experience ionospheric delay due to refraction caused by ionized particles in the ionosphere. Accurately estimating ionospheric delay is crucial for precise GNSS positioning. It can also provide useful data for Earth observation, known as remote sensing.
 

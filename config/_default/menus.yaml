@@ -13,11 +13,10 @@ main:
   - name: Research Areas
     url: /research-areas
     weight: 20
-
-  - name: Project Summary
+  - name: Projects
     url: /project-summary
     weight: 40
   - name: Activities
-    url: /activities
+    url: /activity-summary
     weight: 50
 
