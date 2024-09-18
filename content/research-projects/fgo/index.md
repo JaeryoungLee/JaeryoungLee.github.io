@@ -36,6 +36,7 @@ image:
 </details>
 ---
 
+### GNSS Urban Positioning with FGO
 GNSS signals are significantly degraded in urban environments due to frequent signal blockage and multipath errors caused by tall buildings in urban canyons. The Factor Graph Optimization (FGO)-based positioning algorithm iteratively searches for the optimal position by minimizing the measurement residuals—i.e., the difference between the estimated and actual measurements.FGO is derived from Maximum a Posteriori (MAP) estimation and is connected to non-linear least squares through factorization. For a more detailed derivation, please refer to [this section].
 
 *diagram*
