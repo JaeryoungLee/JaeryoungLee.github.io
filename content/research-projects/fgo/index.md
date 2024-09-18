@@ -8,31 +8,32 @@ authors:
 image:
   caption: 'Image credit'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 ---
 <span style="font-size:80%">
 
-## Urban Positioning using FGO-based GNSS systems
+## Urban Positioning with FGO-based GNSS systems
+<details open>
+  <summary>### Summary</summary>
+  **Motivation**
+  - To improve GNSS positioning accuracy in urban environments, where signal degradation due to blockages and multipath errors caused by tall buildings is a significant challenge.
 
-### Summary
-**Motivation**
-- To improve GNSS positioning accuracy in urban environments, where signal degradation due to blockages and multipath errors caused by tall buildings is a significant challenge.
+  **Method**
+  - Implemented Factor Graph Optimization (FGO)-based positioning, which iteratively searches for the optimal position by minimizing measurement residuals.
+  - Compared the accuracy of FGO with the Extended Kalman Filter (EKF), showing FGO’s advantage in accounting for historical measurements and time correlation of GNSS noise.
+  - Collaborated with Samsung Electronics to improve smartphone GNSS chipsets using FGO for enhanced accuracy and outlier detection.
+  Result:
+  - FGO achieved better accuracy in urban settings than EKF due to its ability to handle multipath interference and time-correlated noise.
+  - Empirical and theoretical analyses showed that the FGO-based system’s integrity, using Monte Carlo simulations, needs further work in error distribution estimation and overbounding techniques for reliable protection levels.
 
-**Method**
-- Implemented Factor Graph Optimization (FGO)-based positioning, which iteratively searches for the optimal position by minimizing measurement residuals.
-- Compared the accuracy of FGO with the Extended Kalman Filter (EKF), showing FGO’s advantage in accounting for historical measurements and time correlation of GNSS noise.
-- Collaborated with Samsung Electronics to improve smartphone GNSS chipsets using FGO for enhanced accuracy and outlier detection.
-Result:
-- FGO achieved better accuracy in urban settings than EKF due to its ability to handle multipath interference and time-correlated noise.
-- Empirical and theoretical analyses showed that the FGO-based system’s integrity, using Monte Carlo simulations, needs further work in error distribution estimation and overbounding techniques for reliable protection levels.
-
-**What I’ve Learned**
-- Gained experience in applying FGO to real-world GNSS challenges, particularly in urban environments.
-- Understood the impact time-correlated noise in FGO-based positioning method by the error analysis. 
-- Implementation of FGO using MATLAB and Ceres-solver in C++ 
-Applied FGO to urban dataset collected in Hong Kong
-
+  **What I’ve Learned**
+  - Gained experience in applying FGO to real-world GNSS challenges, particularly in urban environments.
+  - Understood the impact time-correlated noise in FGO-based positioning method by the error analysis. 
+  - Implementation of FGO using MATLAB and Ceres-solver in C++ 
+  Applied FGO to urban dataset collected in Hong Kong
+</details>
+---
 
 GNSS signals are significantly degraded in urban environments due to frequent signal blockage and multipath errors caused by tall buildings in urban canyons. The Factor Graph Optimization (FGO)-based positioning algorithm iteratively searches for the optimal position by minimizing the measurement residuals—i.e., the difference between the estimated and actual measurements.
 
@@ -58,6 +59,7 @@ The probability distributions of these position errors were derived using two me
 2. **Empirically**, through Monte Carlo simulations.
 
 Empirically, using Monte Carlo simulations, it was shown that the theoretical probability distribution aligns with the real distribution only when the noise is Gaussian-distributed and has no time correlation. However, when the noise is highly correlated, the theoretical variance significantly underestimates the actual variance. Future work will focus on developing more accurate methods for estimating error distributions and improving **error overbounding** techniques to calculate reliable protection levels.
+
 *diagram*
 
 </span>
