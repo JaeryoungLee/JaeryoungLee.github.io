@@ -56,7 +56,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: B.S. in Aerospace Enginnering (double major)
+  - area: B.S. in Aerospace & Electrical Enginnering (double major)
     institution: KAIST
     date_start: '2018-03-01'
     date_end: '2023-08-31'
@@ -67,18 +67,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: B.S. in Electrical Engineering
-    institution: KAIST
-    date_start: '2018-03-01'
-    date_end: '2023-08-31'
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+  
 work:
   - position: Intern 
     company_name: NAVER Maps 
@@ -130,7 +119,7 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 90
   - name: Korean
     percent: 100
 
