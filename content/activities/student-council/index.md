@@ -13,5 +13,6 @@ image:
 ---
 <span style="font-size:80%">
 This is an student page ~!~!~!
+Under Construction
 </span>
 
