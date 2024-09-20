@@ -39,9 +39,9 @@ image:
 ### Urban Positioning with FGO-based GNSS systems
 GNSS signals are significantly degraded in urban environments due to frequent signal blockage and multipath errors caused by tall buildings in urban canyons. The Factor Graph Optimization (FGO)-based positioning algorithm iteratively searches for the optimal position by minimizing the measurement residuals—i.e., the difference between the estimated and actual measurements.FGO is derived from Maximum a Posteriori (MAP) estimation and is connected to non-linear least squares through factorization. For a more detailed derivation, please refer to [this section].
 
-*diagram*
+![fgo_urban](./figures/fgo_urban.jpg)
 
-FGO-based positioning is known to achieve better accuracy in urban environments compared to the Extended Kalman Filter (EKF), as FGO accounts for all historical measurements and incorporates the time correlation of GNSS measurement noise. A detailed comparison between EKF and FGO is provided below. For more information, please refer to our paper (Wen et al., Hong Kong).
+FGO-based positioning is known to achieve better accuracy in urban environments compared to the Extended Kalman Filter (EKF), as FGO accounts for all historical measurements and incorporates the time correlation of GNSS measurement noise. A detailed comparison between EKF and FGO is provided below. For more information, please refer to the paper *link* (Wen et al., Hong Kong).
 
 ### Project with Samsung Electronics
 : Accuracy Improvement of Smartphone GNSS chipsets using FGO Positioning

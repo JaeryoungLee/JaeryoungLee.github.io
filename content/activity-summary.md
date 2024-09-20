@@ -17,8 +17,8 @@ sections:
         folders:
           - activity
     design:
-      view: compact
-      columns: 1
+      view: article-grid
+      columns: 2
 
   - block: markdown
     id: section-1
