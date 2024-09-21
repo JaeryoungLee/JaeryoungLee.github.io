@@ -42,7 +42,7 @@ image:
 ## Vehicle Path Planning using MDP
 Path planning for aerial vehicles plays a crucial role in Urban Air Mobility (UAM), where passengers request specific departure and arrival points on demand. Finding the optimal path is important because it directly impacts the cost and efficiency of the service. As part of an undergraduate research program, I focused on finding the optimal path for aerial vehicles in UAM scenarios, specifically those that transport passengers to multiple on-demand locations.
 
-![vrpp](./figures/path_vrpp.jpg){: width="80%" height="80%"}
+<img src="./figures/path_vrpp.jpg" alt="path_vrpp" width="80%" height="auto">
 
 In this research, the task was to optimize the routes for unmanned aerial vehicles (UAVs) tasked with picking up passengers and dropping them off at their requested destinations. The goal was to find the shortest feasible path that meets fuel constraints while considering task priorities. Some tasks were given higher priority and offered greater rewards when completed. This path planning problem can be formulated as a Vehicle Routing Problem (VRP), which seeks to find the most cost-efficient path under constraints like fuel limits. VRP can be solved using mathematical methods such as integer linear programming, formulated as the equation below. 
 
