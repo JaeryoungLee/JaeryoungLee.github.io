@@ -21,6 +21,7 @@ sections:
 
   - block: markdown
     content:
+      title: ''
       text: |-
       <p align="center"> ## Scholarships </p>
         **Graduate**<br>
