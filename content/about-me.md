@@ -30,21 +30,21 @@ sections:
     content:
       title: Scholarships
       text: |-
-        **Graduate**
-        Korean Government Scholarship for Overseas PhD Study ($80,000)
-          <small>2025 – 2027 (expected)</small>
-        Two-year Full-tuition Scholarship 
-          <small>KAIST & Ministry of Science and ICT, 2023 – 2025</small>
+        **Graduate**<br>
+        Korean Government Scholarship for Overseas PhD Study ($80,000)<br>
+          <small>_2025 – 2027 (expected)_</small><br>
+        Two-year Full-tuition Scholarship<br>
+          <small>_KAIST & Ministry of Science and ICT, 2023 – 2025_</small>
 
-        **Undergraduate**
-        Kim Young-Han (KYH) Global Leader Scholarship
-          <small>KAIST, 2021</small>
-        Academic Excellence Scholarship
-          <small>KAIST, Two semesters in 2021</small>
-        Two-year Boeing Scholarship
-          <small>KAIST & Boeing Korea, 2020-2021</small>
-        Five-year Full-tuition Scholarship
-          <small>KAIST & Ministry of Science and ICT, 2018-2023</small>
+        **Undergraduate**<br>
+        Kim Young-Han (KYH) Global Leader Scholarship<br>
+          <small>_KAIST, 2021_</small><br>
+        Academic Excellence Scholarship<br>
+          <small>_KAIST, Two semesters in 2021_</small><br>
+        Two-year Boeing Scholarship<br>
+          <small>_KAIST & Boeing Korea, 2020-2021_</small><br>
+        Five-year Full-tuition Scholarship<br>
+          <small>_KAIST & Ministry of Science and ICT, 2018-2023_</small><br>
       design:
         columns: '1'
 
