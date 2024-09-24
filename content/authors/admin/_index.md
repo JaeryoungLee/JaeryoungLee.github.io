@@ -87,10 +87,12 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Programming | C/C++  Python  MATLAB  Kotlin  SQL
+      - name: Programming 
+        description: 'C/C++  Python  MATLAB  Kotlin  SQL'
         percent: 80
         icon: code-bracket
-      - name: Software |  ROS  Gazebo   Ceres-Solver RTKLIB  Git
+      - name: Software
+        description: 'ROS  Gazebo   Ceres-Solver RTKLIB  Git'
         icon: chart-bar
 
   - name: Hobbies
@@ -100,6 +102,8 @@ skills:
       - name: Yoga | Swimming | Running
         description: ''
         icon: person-simple-walk
+      - name: Swimming
+        description: ''
         icon: person-simple-walk
       - name: Cats and Dogs
         description: ''

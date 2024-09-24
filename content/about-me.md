@@ -19,27 +19,25 @@ sections:
       # Education or Experience section first?
       is_education_first: true
 
-
-
   - block: markdown
     content:
-      title: Scholarships
       text: |-
+      <p align="center"> ## Scholarships </p>
         **Graduate**<br>
-        Korean Government Scholarship for Overseas PhD Study ($80,000)<br>
-        <small>&nbsp;&nbsp;&nbsp;&nbsp;_Korea National Institute for International Education_ | _2025 – 2027_ (expected)</small><br>
-        Two-year Full-tuition Scholarship<br>
-        <small>&nbsp;&nbsp;&nbsp;&nbsp;_KAIST & Ministry of Science and ICT_ | _2023 – 2025_</small>
+          Korean Government Scholarship for Overseas PhD Study ($80,000)<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;<small>_Korea National Institute for International Education_ | _2025 – 2027_ (expected)</small><br>
+          Two-year Full-tuition Scholarship<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;<small>_KAIST & Ministry of Science and ICT_ | _2023 – 2025_</small>
 
         **Undergraduate**<br>
-        Kim Young-Han (KYH) Global Leader Scholarship<br>
-        <small>&nbsp;&nbsp;&nbsp;&nbsp;_KAIST_ | _2021_</small><br>
-        Academic Excellence Scholarship<br>
-        <small>&nbsp;&nbsp;&nbsp;&nbsp;_KAIST_ | _Two semesters in 2021_</small><br>
-        Two-year Boeing Scholarship<br>
-        <small>&nbsp;&nbsp;&nbsp;&nbsp;_KAIST_ & Boeing Korea_ | _2020-2021_</small><br>
-        Five-year Full-tuition Scholarship<br>
-        <small>&nbsp;&nbsp;&nbsp;&nbsp;_KAIST & Ministry of Science and ICT_ | _2018-2023_</small><br>
+          Kim Young-Han (KYH) Global Leader Scholarship<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;<small>_KAIST_ | _2021_</small><br>
+          Academic Excellence Scholarship<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;<small>_KAIST_ | _Two semesters in 2021_</small><br>
+          Two-year Boeing Scholarship<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;<small>_KAIST_ & Boeing Korea_ | _2020-2021_</small><br>
+          Five-year Full-tuition Scholarship<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;<small>_KAIST & Ministry of Science and ICT_ | _2018-2023_</small><br>
       # design:
       #   columns: '1'
 
