@@ -23,7 +23,6 @@ sections:
     content:
       title: 'Scholarships'
       text: |-
-      ## Scholarships
       **Graduate**<br>
         Korean Government Scholarship for Overseas PhD Study ($80,000)<br>
         &nbsp;&nbsp;&nbsp;&nbsp;<small>_Korea National Institute for International Education_ | _2025 – 2027_ (expected)</small><br>
