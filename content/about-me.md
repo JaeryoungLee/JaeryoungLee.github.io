@@ -30,8 +30,7 @@ sections:
     id: scholarships
     content:
       title: Scholarships
-      text: |
-      **Graduate**
+      text:**Graduate**
       Korean Government Scholarship for Overseas PhD Study ($80,000)
         <small>2025 – 2027 (expected)</small>
       Two-year Full-tuition Scholarship 
