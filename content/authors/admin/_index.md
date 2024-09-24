@@ -47,26 +47,26 @@ interests:
   - Sensor Fusion 
 
 education:
-  - area: M.S.in Aerospace Engineering
+  - area: M.S. in Aerospace Engineering
     institution: KAIST
     date_start: '2023-09-01'
     date_end: '2025-08-31'
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Jiyun Lee](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals (example).
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      - GPA: 3.88/4.00
+      - Research Title: A Study of Vehicle Positioning and Its Safety Analysis based on Bayesian Estimation (Advisor: Prof. Jiyun Lee)
+      - Korean Government Scholarship for Overseas PhD Study (Expected: 2025-2027) 
+
   - area: B.S. in Aerospace & Electrical Enginnering (double major)
     institution: KAIST
     date_start: '2018-03-01'
     date_end: '2023-08-31'
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - GPA: 3.80/4.00
+      Overall Rank (AE): 2/13
+      Graduated Magna Cum Laude
+      - Research Title: Path Planning of UAV for On-Demand Urban Air Mobility using Markov Decision Process (Advisor: Prof. Jaemyung Ahn)
+      - Exchange Researcher at Univ. of Leeds, UK
+      Reserach on Fixed Wing Vision Guided Precision Landing Systems.
   
 work:
   - position: Intern 
@@ -77,9 +77,9 @@ work:
     date_end: '2022-02-23'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Created a positioning algorithm for subway passengers in GNSS-challenging environments using smartphone sensor data.
+      - Integrated the subway positioning algorithm into Android apps.
+      - Mastered Git for version control, facilitating efficient collaboration.
 
 
 # Skills
@@ -87,18 +87,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
+      - name: Programming
+        description: C/C++  Python  MATLAB  Kotlin  SQL
         percent: 80
         icon: code-bracket
-      - name: MATLAB
-        description: ''
-        percent: 100
+      - name: Software
+        description: ROS  Gazebo   Ceres-Solver RTKLIB  Git
+        percent: 80
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
