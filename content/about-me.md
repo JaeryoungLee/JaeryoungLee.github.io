@@ -22,7 +22,7 @@ sections:
   - block: markdown
     content:
       title: 'Scholarships'
-      text: |-
+      text: |
       **Graduate**<br>
         Korean Government Scholarship for Overseas PhD Study ($80,000)<br>
         &nbsp;&nbsp;&nbsp;&nbsp;<small>_Korea National Institute for International Education_ | _2025 – 2027_ (expected)</small><br>
