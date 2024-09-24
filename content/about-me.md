@@ -35,9 +35,9 @@ sections:
         Academic Excellence Scholarship<br>
         &nbsp;&nbsp;&nbsp;&nbsp;<small>_KAIST_ | _Two semesters in 2021_</small><br>
         Two-year Boeing Scholarship<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;<small>_KAIsIST & Ministry of Science and ICT_ | _2018-2023_</small><br>
-      # design:
-      #   columns: '1'
+        &nbsp;&nbsp;&nbsp;&nbsp;<small>_KAIsIST & Ministry of Science and ICT_ | _2018-2023_</small><br>  
+    design:
+      columns: '1'
 
 
   # - block: resume-awards
