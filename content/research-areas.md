@@ -33,12 +33,15 @@ Projects I worked on as an undergraduate researcher include:
 - UAV Path Planning
 - Vision-based precision landing of fixed-wing UAVs
 - Subway positioning using passengers’ mobile phone sensors. 
+
 More details of these projects can be seen here: (link). 
 
 
 #### Graduate Research 
-Following completion of those projects, it seemed natural for me to pursue a master's degree to research navigation in depth, which led me to research GNSS, the most elemental and fundamental positioning technique. To date, I have worked on the following projects as a master’s student. (link)
-![fgo_diagram](./fgo_diagram.jpg)
+Following completion of those projects, it seemed natural for me to pursue a master's degree to rese navigation in depth, which led me to research GNSS, the most elemental and fundamental positioning technique. To date, I have worked on the following projects as a master’s student. (link)
+<div style="text-align: center;">
+  <img src="./fgo_diagram.jpg" alt="fgo_diagram" width="80%" height="auto">
+</div>
 - Urban positioning using Factor Graph Optimization (FGO)-based GNSS systems
 - GNSS integrity assurance 
 - Ionospheric modeling 
