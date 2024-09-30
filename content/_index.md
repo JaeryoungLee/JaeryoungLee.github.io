@@ -22,6 +22,21 @@ sections:
       background:
         color: zinc
         text_color_light: false
+    
+    - block: markdown
+      text:
+    - block: markdown
+        title: '📚 My Research'
+        text: |-
+          My research interests include autonomous navigation and positioning in robotics. In a broader sense, I am interested in how things see and understand the world utilizing different sensor measurements. As well as practical implementation, I hope to pursue the fundamental background of estimation, such as Bayesian estimation theory and Statistical Inference, in depth.
+         
+          Please visit [here](https://jaeryounglee.github.io/research-areas/) to see my research journey 😃
+
+          <div style="text-align: center;">
+            <img src="../../media/estimation_diagram2.jpg" alt="fgo_diagram" width="80%" height="auto">
+          </div> 
+        design:
+          columns: '1'
 
 
 
@@ -50,12 +65,5 @@ sections:
 ---
 
 
-### '📚 My Research'
 
-My research interests include autonomous navigation and positioning in robotics. In a broader sense, I am interested in how things see and understand the world utilizing different sensor measurements. As well as practical implementation, I hope to pursue the fundamental background of estimation, such as Bayesian estimation theory and Statistical Inference, in depth.
-         
-Please visit [here](https://jaeryounglee.github.io/research-areas/) to see my research journey 😃
 
-<div style="text-align: center;">
-  <img src="../../media/estimation_diagram2.jpg" alt="fgo_diagram" width="80%" height="auto">
-</div>

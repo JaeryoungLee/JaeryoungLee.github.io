@@ -153,6 +153,4 @@ awards:
 
 Hello, my name is Jaeryoung Lee. I am a Master’s student studying Aerospace Engineering at KAIST, South Korea. My research interests include autonomous navigation, Bayesian estimation and statistical inference. Currently, I am working on Positing-Navigation-Timing (PNT) using Global Navigation Satellite Systems (GNSS) at the KAIST GNSS lab, led by Prof. Jiyun Lee.
 
-To see my masters' project, please visit here: [FGO Positioning]
-
-To learn more about the project I devoted my master's degree to, visit my [**FGO Positioning** page](https://jaeryounglee.github.io/research-projects/fgo/)).
+To learn more about the project I devoted my master's degree to, please visit my [**FGO positioning** page](https://jaeryounglee.github.io/research-projects/fgo/).
