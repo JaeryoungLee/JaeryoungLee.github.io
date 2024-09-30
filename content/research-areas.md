@@ -34,7 +34,7 @@ Projects I worked on as an undergraduate researcher include:
 - Vision-based precision landing of fixed-wing UAVs
 - Subway positioning using passengers’ mobile phone sensors. 
 
-More details of these projects can be seen here: (link). 
+More details of these projects can be seen [here](https://jaeryounglee.github.io/research-areas/).
 
 
 #### Graduate Research 
