@@ -1,7 +1,7 @@
 ---
 title: Regional Optimization of NeQuick, an Ionospheric Model
 summary: This is an iono page
-date: 2024-09-14
+date: 2023-09-14
 authors: 
 - admin
 
