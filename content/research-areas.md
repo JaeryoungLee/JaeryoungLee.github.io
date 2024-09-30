@@ -42,6 +42,7 @@ Following completion of those projects, it seemed natural for me to pursue a mas
 <div style="text-align: center;">
   <img src="./research-projects/fgo/figures/fgo_diagram1.jpg" alt="fgo_diagram" width="80%" height="auto">
 </div>
+
 - Urban positioning using Factor Graph Optimization (FGO)-based GNSS systems
 - GNSS integrity assurance 
 - Ionospheric modeling 
