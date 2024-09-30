@@ -31,8 +31,8 @@ sections:
          My research interests include autonomous navigation and positioning in robotics. In a broader sense, I am interested in how things see and understand the world utilizing different sensor measurements. As well as practical implementation, I hope to pursue the fundamental background of estimation, such as Bayesian estimation theory and Statistical Inference, in depth.
         
         Please visit here(link) to see my research journey 😃
-    design:
-      columns: '1'
+    # design:
+    #   columns: '1'
   # - block: collection
   #   id: papers
   #   content:
