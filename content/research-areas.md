@@ -30,9 +30,9 @@ In a broader sense, I am interested in how things see and understand the world u
 #### Undergraduate Research
 I started my research journey for **autonomous navigation** when I was an undergraduate student at KAIST.
 Projects I worked on as an undergraduate researcher include: 
-- UAV Path Planning
+- [UAV Path Planning](https://jaeryounglee.github.io/research-projects/path-planning/)
 - Vision-based precision landing of fixed-wing UAVs
-- Subway positioning using passengers’ mobile phone sensors. 
+- Subway positioning using passengers’ mobile phone sensors] 
 
 More details of these projects can be seen [here](https://jaeryounglee.github.io/research-areas/).
 
@@ -43,9 +43,9 @@ Following completion of those projects, it seemed natural for me to pursue a mas
   <img src="../research-projects/fgo/figures/fgo_diagram1.jpg" alt="fgo_diagram" width="80%" height="auto">
 </div>
 
-- Urban positioning using Factor Graph Optimization (FGO)-based GNSS systems
+- [Urban positioning using Factor Graph Optimization (FGO)-based GNSS systems](https://jaeryounglee.github.io/research-projects/fgo/)
 - GNSS integrity assurance 
-- Ionospheric modeling 
+- [Ionospheric modeling](https://jaeryounglee.github.io/research-projects/iono-modeling/) 
 - LEO-PNT
 - Software-defined Receiver (SDR)
 
