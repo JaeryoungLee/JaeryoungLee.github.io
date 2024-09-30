@@ -32,7 +32,7 @@ image:
   - Gained experience in applying FGO to real-world GNSS challenges, particularly in urban environments.
   - Understood the impact time-correlated noise in FGO-based positioning method by the error analysis. 
   - Implementation of FGO using MATLAB and Ceres-solver in C++ 
-  Applied FGO to urban dataset collected in Hong Kong
+  Applied FGO to urban dataset collected in Hong Kong.
 </details>
 
 ---

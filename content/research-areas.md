@@ -34,11 +34,10 @@ Projects I worked on as an undergraduate researcher include:
 - Vision-based precision landing of fixed-wing UAVs
 - Subway positioning using passengers’ mobile phone sensors 
 
-More details of these projects can be seen [**here**](https://jaeryounglee.github.io/project-summary/).
 
 
 #### *Graduate Research* 
-Following completion of those projects, it seemed natural for me to pursue a master's degree to rese navigation in depth, which led me to research GNSS, the most elemental and fundamental positioning technique. To date, I have worked on the following projects as a master’s student. (link)
+Following completion of those projects, it seemed natural for me to pursue a master's degree to rese navigation in depth, which led me to research GNSS, the most elemental and fundamental positioning technique. To date, I have worked on the following projects as a master’s student.
 <div style="text-align: center;">
   <img src="../research-projects/fgo/figures/fgo_diagram1.jpg" alt="fgo_diagram" width="80%" height="auto">
 </div>
@@ -49,6 +48,8 @@ Following completion of those projects, it seemed natural for me to pursue a mas
 - [Ionospheric modeling][def2] 
 - LEO-PNT
 - Software-defined Receiver (SDR)
+
+More details of these projects can be seen [**here**](https://jaeryounglee.github.io/project-summary/).
 
 
 #### *Advancing to Doctoral Research ...* 
