@@ -40,7 +40,7 @@ More details of these projects can be seen [here](https://jaeryounglee.github.io
 #### Graduate Research 
 Following completion of those projects, it seemed natural for me to pursue a master's degree to rese navigation in depth, which led me to research GNSS, the most elemental and fundamental positioning technique. To date, I have worked on the following projects as a master’s student. (link)
 <div style="text-align: center;">
-  <img src="./research-projects/fgo/figures/fgo_diagram1.jpg" alt="fgo_diagram" width="80%" height="auto">
+  <img src="../research-projects/fgo/figures/fgo_diagram1.jpg" alt="fgo_diagram" width="80%" height="auto">
 </div>
 
 - Urban positioning using Factor Graph Optimization (FGO)-based GNSS systems
