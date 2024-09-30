@@ -1,6 +1,6 @@
 ---
 title: Regional Optimization of NeQuick, an Ionospheric Model
-summary: This is an iono page
+summary: Regional Optimization of NeQuick G Model for Improved TEC Estimation using a least-squares method
 date: 2023-09-14
 authors: 
 - admin

@@ -26,12 +26,11 @@ sections:
   #     title: Section 1
   #     subtitle: A subtitle
   #     text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-  
+
   - block: collection
     content:
       title: Research Notes
-      text: This section is currently being developed. Stay tuned for updates! 👀
-      It will include research notes on SDR, LEO-PNT and Sensor fusion.
+      text: This section is currently being developed. Stay tuned for updates! 👀 <br> It will include research notes on SDR, LEO-PNT and Sensor fusion.
       filters:
         folders:
           - research-notes

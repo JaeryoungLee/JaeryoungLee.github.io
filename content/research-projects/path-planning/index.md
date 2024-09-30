@@ -1,6 +1,6 @@
 ---
 title: Vehicle Path Planning using MDP 
-summary: This is a path planning page
+summary: Vehicle Routing Problem with Profits based UAV Path Planning in Urban Air Mobility.
 date: 2022-08-31
 authors: 
 - admin

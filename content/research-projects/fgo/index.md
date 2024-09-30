@@ -1,6 +1,6 @@
 ---
 title: Urban Positioning-Factor Graph
-summary: This is an urban positioning page
+summary: Probabilistic Analysis of Position Errors in Factor Graph Optimization-based GNSS Systems Using Monte-Carlo Simulation
 date: 2024-09-14
 authors: 
 - admin
