@@ -1,5 +1,5 @@
 ---
-title: GNSS integrity in safety-critical systems
+title: GNSS Integrity in Safety-Critical Systems
 summary: This section is currently being developed.
 date: 2024-09-31
 authors: 
@@ -12,5 +12,5 @@ authors:
 
 ---
 <span style="font-size:80%">
-
+This section is currently being developed. Stay tuned for updates! 👀
 

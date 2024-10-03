@@ -1,5 +1,5 @@
 ---
-title: vision-guided precision landing system for a fixed-wing UAV
+title: Vision-Guided Precision Landing System for a Fixed-Wing UAV
 summary: This section is currently being developed.
 date: 2022-08-31
 authors: 
@@ -12,5 +12,5 @@ authors:
 
 ---
 <span style="font-size:80%">
-
+This section is currently being developed. Stay tuned for updates! 👀
 
