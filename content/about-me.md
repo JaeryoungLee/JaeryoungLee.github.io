@@ -19,6 +19,17 @@ sections:
       # Education or Experience section first?
       is_education_first: true
 
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
+
   - block: markdown
     content:
       title: 'Scholarships'

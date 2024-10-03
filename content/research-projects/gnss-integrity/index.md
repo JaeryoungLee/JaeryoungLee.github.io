@@ -1,7 +1,7 @@
 ---
-title: a vision-guided precision landing system for a fixed-wing UAV
+title: GNSS integrity in safety-critical systems
 summary: This section is currently being developed.
-date: 2022-08-31
+date: 2024-09-31
 authors: 
 - admin
 
