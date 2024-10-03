@@ -52,7 +52,7 @@ Following completion of those projects, it seemed natural for me to pursue a mas
 More details of these projects can be seen [**here**](https://jaeryounglee.github.io/project-summary/).
 
 
-#### ✔ Advancing to Doctoral Research ... 
+#### ✔  ✔ Advancing to Doctoral Research ... 
 During my PhD studies, I aim to leverage my background in autonomous navigation and estimation theory to explore technologies in control and guidance systems. While my primary focus is on sensor fusion, localization, and decision-making for navigation, I am eager to expand my expertise beyond navigation into broader applications of estimation and inference. I see strong connections between these fields, as the principles of statistical estimation and inference are widely applicable across various engineering domains. I look forward to addressing emerging challenges in estimation and contributing innovative solutions in both navigation and broader engineering applications.
 </span> 
 
