@@ -56,7 +56,7 @@ The ionospheric delay is determined by the Total Electron Content (TEC) along th
 </div>
 
 The regionally optimized Az parameters were derived through polynomial fitting, using the least squares method. The proposed algorithm is shown below. The goal is to find the optimal Az parameters that minimize the RMS error between the modeled TEC values and the observed TEC values. In this research, the TEC observations were calculated from single-frequency GNSS raw measurement data in RINEX format, processed in MATLAB. The data was provided by the International GNSS Service (IGS) and NASA. The Nelder-Mead Simplex algorithm was used for optimization.
-![ionosphere_algorithm](./figures/iono_algorithm.jpg){: width="70%" height="70%"}
+
 <div style="text-align: center;">
   <img src="./figures/iono_algorithm.jpg" alt="ionosphere_algorithm" width="70%" height="auto">
 </div>
