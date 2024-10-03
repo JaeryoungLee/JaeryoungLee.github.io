@@ -66,17 +66,25 @@ education:
       Overall Rank (AE): 2/13<br>
       Graduated *Magna Cum Laude*
       - Research Title: Path Planning of UAV for On-Demand Urban Air Mobility using Markov Decision Process (Advisor: Prof. Jaemyung Ahn)
-      - Exchange Researcher at Univ. of Leeds, UK<br>
-      Reserach on Fixed Wing Vision Guided Precision Landing Systems.
   
 work:
+  - position: Exchange Researcher 
+    company_name: University of Leeds, UK 
+    company_url: ''
+    company_logo: ''
+    date_start: '2022-06-01'
+    date_end: '2022-08-01'
+    summary: |
+      - Reserach on Fixed Wing Vision Guided Precision Landing Systems. (Advisor: Prof. Bilal Kaddouh)
+      Responsibilities include:
+      - Simulated the UAV landing system using Gazebo and ArduPilot in ROS on a Linux platform.
   - position: Intern 
     company_name: NAVER Maps 
     company_url: 'https://www.navercorp.com/'
     company_logo: ''
     date_start: '2021-12-27'
     date_end: '2022-02-23'
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Created a positioning algorithm for subway passengers in GNSS-challenging environments using smartphone sensor data.
       - Integrated the subway positioning algorithm into Android apps.
